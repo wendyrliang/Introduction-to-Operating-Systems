@@ -1,0 +1,8 @@
+Ruiwen Liang
+rliang4
+CMPS 111, Fall 18
+ASG1 - C Shell
+
+Error 1: For output redirection, when >> if used, it ouverwrites the output file instead of append the the end of the output file
+
+Error 2: For multiple commands, the program only complelte the last command
